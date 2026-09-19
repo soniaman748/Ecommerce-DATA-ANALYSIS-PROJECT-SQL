@@ -1,5 +1,4 @@
 # Ecommerce-DATA-ANALYSIS-PROJECT-SQL
-# E-Commerce Data Analysis — SQL Project
 
 This project focuses on analyzing an **E-Commerce dataset using MySQL** to understand customer behavior, product performance, sales trends, and business growth opportunities.
 
